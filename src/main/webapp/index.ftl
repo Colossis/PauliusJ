@@ -5,7 +5,7 @@
 <title>Spring</title>
 </head>
 <body>
-<h1> Pirmasis Spring Projektas ;) </h1>
+<h1> Spring Hello World </h1>
 <a href="/nextPage"> Sekantis puslapis </a>
 </body>
 </html>
